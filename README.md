@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Test Website For Coursera
 
 You can use the [editor on GitHub](https://github.com/alibrdnck/courseratest/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,6 +25,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+![Image](https://en.meming.world/images/en/thumb/2/2c/Surprised_Pikachu_HD.jpg/300px-Surprised_Pikachu_HD.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
